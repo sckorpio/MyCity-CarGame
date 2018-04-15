@@ -1,4 +1,4 @@
-
+![](screenshots/Screenshot%20from%202018-04-15%2023-01-08.png)
 # PROJECT TITLE:   MyCity-CarGame
 # AUTHORS:         Sckorpio
 # VERSION or DATE: October,2017
