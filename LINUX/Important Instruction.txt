@@ -1,0 +1,5 @@
+  INSTRUCTION--
+# download WINE in your linux destro
+# run the MyCity
+------
+# or run linux executable   

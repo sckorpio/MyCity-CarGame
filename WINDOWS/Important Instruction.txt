@@ -1,0 +1,3 @@
+  INSTRUCTION--
+# copy freeglut.dll file into the windows32 folder in local disk c(or put it side by side to the game)
+# run the MyCity   
