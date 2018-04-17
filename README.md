@@ -2,7 +2,7 @@
 # PROJECT TITLE:   MyCity-CarGame
 # AUTHORS:         Sckorpio
 # VERSION or DATE: October,2017
-                      
+![](screenshots/Screenshot%20from%202018-04-17%2013-49-41.png)                      
 
 # DESCRIPTION:
                        A 3D , third person Car adventure game.
